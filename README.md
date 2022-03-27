@@ -3,4 +3,4 @@
 
 Veja abaixo alguns projetos que desenvolvi dentro deste curso:
 
-<a href="/projeto-android">Projeto Android</a>
+<a href="/html-css/projeto-android">Projeto Android</a>
