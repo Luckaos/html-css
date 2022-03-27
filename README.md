@@ -3,4 +3,4 @@
 
 Veja abaixo alguns projetos que desenvolvi dentro deste curso:
 
-<a href="https://luckaos.github.io/html-css/projeto-android/">Projeto Android</a>
+<a href="https://luckaos.github.io/html-css/projeto-android/" target="_blank">Projeto Android</a>
